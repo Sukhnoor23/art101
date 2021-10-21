@@ -1,0 +1,13 @@
+h1 {
+  font-style:oblique;
+  font-weight: 600;
+  font-family: sans-serif;
+  color: darkblue
+}
+p {
+  width: 300px;
+  border: 15px;
+  padding: 50px;
+  margin: 20px;
+  font-size: 20px
+}
