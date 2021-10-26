@@ -10,7 +10,7 @@
    year = "2007";
 
 // Output
-   document.writeln("honda" +  "<br>");
+   {document.writeln("Honda" +  "<br>");
    document.writeln("element" + "<br>");
    document.writeln("silver" + "<br>");
-   document.writeln("2007" + "<br>");
+   document.writeln("2007" + "<br>");}
