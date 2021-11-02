@@ -23,5 +23,5 @@ sukhnoorArray.map(function(x){
 
 console.log("Numbers in the array, mutiplied by 2:" sukhnoorArray)
 
-var outputEl = document.getElementById("output");
-outputEl.innerHTML = mapResults; //put your results here 
+var outputEl = document.getElementById("js-output");
+outputEl.innerHTML = mapResults; //put your results here
