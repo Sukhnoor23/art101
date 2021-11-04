@@ -1,16 +1,15 @@
 h1 {
-     font-family: monospace;
-     color: blue
      text-align: center;
-     font-size: 80px
+     font-family: courier;
+     font-size: 70px
 }
 p {
     font-family: serif;
     text-align: left;
     margin-right: 80%
-    font-size: 30px
+    font-size: 50px
     color: gray;
-    background-color: lightgreen;
+    background-color: powderblue;
     margin-left: 5px
   }
 
