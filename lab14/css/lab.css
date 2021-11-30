@@ -1,0 +1,40 @@
+h2 {
+   color: lightpink;
+  font-family: times;
+  font-size: 90px
+}
+
+h3 {
+  color: lightpink;
+  font-family: times;
+  font-size: 90px
+}
+
+h4 {
+  color: lightpink;
+  font-family: times;
+  font-size: 90px
+}
+
+h1 {
+  color: lightpink;
+  text-align: center;
+  font-family: courier;
+  font-size: 100px;
+}
+
+p {
+  font-size:110px
+  border: 2px solid green;
+}
+
+
+
+#content {
+  background-color: lightyellow;
+  width: 4500px;
+  padding: 600px;
+  margin: 20px;
+  border: solid 7px lightpink;
+  font-size: 60px
+}

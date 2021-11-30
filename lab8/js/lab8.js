@@ -21,7 +21,13 @@ sukhnoorArray.map(function(x){
 })
 
 
-console.log("Numbers in the array, mutiplied by 2:" sukhnoorArray)
+console.log("Numbers in the array, + mutiplied by 2: sukhnoorArray");
 
 var outputEl = document.getElementById("js-output");
 outputEl.innerHTML = mapResults; //put your results here
+
+const notUndefined = anyValue => typeof anyValue !== 'undefined'
+const noUndefinedList = someList
+          .map(//mapping condition)
+          .filter (notUndefined); // by doing this,
+                      //you can ensure what's returned is not undefined

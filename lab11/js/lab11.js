@@ -1,6 +1,6 @@
-/* Lab 9: Javascript with the Web
+/* Lab 11: Libraries and jQuery
  * Author: Sukhnoor Sahota & Luke Pilapil
- * Created: 11/3/21
+ * Created: 11/8/21
  */
 
 //using jQuery to add buttons and to make it say something.

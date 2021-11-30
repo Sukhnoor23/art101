@@ -9,8 +9,13 @@
    color = "silver";
    year = "2007";
 
+// calculate
+   age = 2019 - year;
+
+
 // Output
-   document.writeln("make" + "<br>");
-   document.writeln("element" + "<br>");
-   document.writeln("silver" + "<br>");
-   document.writeln("2007" + "<br>");
+document.writeln("Make: " + make + "<br>");
+document.writeln("Model: " + model + "<br>");
+document.writeln("Color: " + color + "<br>");
+document.writeln("Year: " + year + "<br>");
+document.writeln("Age: " + age + " years<br>");
